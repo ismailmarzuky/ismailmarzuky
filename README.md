@@ -131,12 +131,12 @@ No Activity Tracked This Week
   
  <br><br> 
 <p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  <a href="https://www.youtube.com/@saipulanuar"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
   
 <p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
+  <a href="https://www.youtube.com/@saipulanuar?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A">
+    <a href="https://www.youtube.com/@saipulanuar">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
@@ -152,7 +152,7 @@ No Activity Tracked This Week
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <p align="center">
 <a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="KingOfBear" /></a>   
-<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20KingOfBear" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="KingOfBear"/></a>
+<a href="https://api.whatsapp.com/send?phone=6288279268363&text=Hello%20KingOfBear" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="KingOfBear"/></a>
 <a href="https://telegram.me/raraharsita2" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="KingOfBear" /></a>   
 <a href="mailto:KingOfBear?&subject=KingOfBear Official Help&body=KingOfBear@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="KingOfBear" /></a>   
 </p>
@@ -160,7 +160,7 @@ No Activity Tracked This Week
 --- 
  
  <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/KingOfBear"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="KingOfBear" /></a></p>
+<p><a href="https://saweria.co/raraharsita2"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="KingOfBear" /></a></p>
 </div>
  
 ---
@@ -169,7 +169,7 @@ No Activity Tracked This Week
 
 ---
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=KingOfBear)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
 
 </details>
 
