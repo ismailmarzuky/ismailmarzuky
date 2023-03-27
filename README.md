@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+DarkWinzo;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+KingOfBear;New+Beginning+Developer;Please+Support+Me;Please+Contact+Me" alt="Typing SVG" /></a>    
 <p align="center">
-<a href="https://github.com/DarkWinzo"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DarkWinzo&description=Hello,%20I%20am%20DarkWinzo.%20I%20am%20beginner%20in%20programming,%20please%20Support%20Me&image=https://i.ibb.co/XS694VV/peakpx.jpg&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+<a href="https://github.com/ismailmarzuky"><img align="center" src="https://github-cardname.caliph.my.id/api?name=KingOfBear&description=Hello,%20I%20am%20KingOfBear.%20I%20am%20beginner%20in%20programming,%20please%20Support%20Me&image=https://i.ibb.co/XS694VV/peakpx.jpg&backgroundColor=%23ecf0f1&instagram=@raraharsita2&github=Ismailmarzuky&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/SaipulAnuar"/></a>
 </p>
 
 
@@ -11,26 +11,26 @@
 
 
   <p align="center">
-  <a href="https://github.com/DarkWinzo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DarkWinzo"/></a>
-  <a href="https://github.com/DarkWinzo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DarkWinzo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ismailmarzuky?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ismailmarzuky"/></a>
+  <a href="https://github.com/ismailmarzuky?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ismailmarzuky?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     </br></br>
-  <a href="https://github.com/DarkWinzo/Bosco">
-    <img src="https://komarev.com/ghpvc/?username=DarkWinzo&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+  <a href="https://github.com/ismailmarzuky/Bosco">
+    <img src="https://komarev.com/ghpvc/?username=ismailmarzuky&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
   </a>
   
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/DarkWinzo/count.svg" />
+  <img src="https://profile-counter.glitch.me/KingOfBear/count.svg" />
 </p>
 
 <!--
-![Metrics](https://github.com/DarkWinzo/DarkWinzo/blob/master/github-metrics.svg)
+![Metrics](https://github.com/KingOfBear/KingOfBear/blob/master/github-metrics.svg)
 -->
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/DarkWinzo/insta-Hack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=insta-Hack&theme=auto)](https://github.com/ismailmarzuky/insta-Hack)
 -->
 ---
 ```python
@@ -46,7 +46,7 @@ class say_hi:
         return self.__str__()
 
 if __name__ == "__main__":
-    print(say_hi("Hello there 👋, I'm DarkWInzo, Nice to meet you all!"))
+    print(say_hi("Hello there 👋, I'm KingOfBear, Nice to meet you all!"))
 ```
 <!--START_SECTION:waka--> 
 
@@ -58,9 +58,9 @@ if __name__ == "__main__":
 
 **🐱 My GitHub Stats** 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkWinzo&show_icons=true&theme=highcontrast" alt="DarkWinzo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingOfBear&show_icons=true&theme=highcontrast" alt="ismailmarzuky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkWinzo&theme=highcontrast" alt="DarkWinzo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailmarzuky&theme=highcontrast" alt="ismailmarzuky" /></p>
 </details>
 
 
@@ -121,7 +121,7 @@ No Activity Tracked This Week
   
 
 # My currently working Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/DarkWinzo)
+[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,azure,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/ismailmarzuky)
 
  ---
 <p align="center">
@@ -143,7 +143,7 @@ No Activity Tracked This Week
 
 ---
   
-<h3>DarkWinzo's Music Player</h3>
+<h3>KingOfBear's Music Player</h3>
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
@@ -151,16 +151,16 @@ No Activity Tracked This Week
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <p align="center">
-<a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="DarkWinzo" /></a>   
-<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="DarkWinzo"/></a>
-<a href="https://telegram.me/DarkWinzo" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="DarkWinzo" /></a>   
-<a href="mailto:DarkWinzo?&subject=DarkWinzo Official Help&body=DarkWinzo2240@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="DarkWinzo" /></a>   
+<a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="KingOfBear" /></a>   
+<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20KingOfBear" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="KingOfBear"/></a>
+<a href="https://telegram.me/raraharsita2" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="KingOfBear" /></a>   
+<a href="mailto:KingOfBear?&subject=KingOfBear Official Help&body=KingOfBear@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="KingOfBear" /></a>   
 </p>
 
 --- 
  
  <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/DarkWinzo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="DarkWinzo" /></a></p>
+<p><a href="https://www.buymeacoffee.com/KingOfBear"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="260" alt="KingOfBear" /></a></p>
 </div>
  
 ---
@@ -169,7 +169,7 @@ No Activity Tracked This Week
 
 ---
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkWinzo)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=KingOfBear)
 
 </details>
 
@@ -177,9 +177,9 @@ No Activity Tracked This Week
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/KingOfBear?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=DarkWinzo&theme=highcontrast&repo=DarkWinzo)](https://github.com/DarkWinzo)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=KingOfBear&theme=highcontrast&repo=KingOfBear)](https://github.com/KingOfBear)
 
 </details>
 
@@ -188,7 +188,7 @@ No Activity Tracked This Week
   
 ---
   
-  Hi, I'm DarkWinzo
+  Hi, I'm KingOfBear
 
 I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
 
